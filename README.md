@@ -1,70 +1,74 @@
-# CleenHearts Website
+# Real Happiness Of Life Foundation
 
-Welcome to the official repository for **CleenHearts**, a charitable organization dedicated to making the world better by fostering corporate social responsibility, donations, volunteering, and community engagement.
-
-## 🌍 About CleenHearts
-
-**CleenHearts** helps companies and individuals contribute meaningfully to society through strategic philanthropy, grantmaking, and social initiatives. Our platform highlights success stories, encourages donations, and empowers people to make a difference.
-
-> *Helping Each Other Can Make The World Better*
-
----
-
-## 🧭 Site Structure
-
-The website includes the following key sections:
-
-- **Home**
-- **About Us**
-- **Donations**
-- **Events**
-- **Shop**
-- **News**
-- **Contact Us**
-- **Volunteer Signup**
-- **FAQ**
-- **Testimonials**
+**Empowering lives through impactful programs. Making a difference since 2021.**  
+📍 *Headquarters: Bhiwandi, Maharashtra*  
+📞 *Contact: +91 9607753148*  
+🌐 *Website: [www.rhlf.org](http://www.rhlf.org/)*  
+📅 *Founded: 2021*  
+👥 *Team Size: 11–50 employees*  
 
 ---
 
-## 📊 Key Stats (As Featured)
+## 🧡 About Us
 
-- **Total Fund Raised**: $38,768
-- **Volunteers**: 6,472+
-- **People Impacted**: 1,193,210+
+**Real Happiness Of Life Foundation (RHLF)** is a non-profit organization dedicated to empowering lives by providing essential resources and opportunities for underserved communities. Since our inception in 2021, we have worked tirelessly to make a lasting social impact through our various programs and outreach initiatives.
 
----
-
-## 🧑‍💼 Meet Our Founder
-
-**Robert Joe Kerry**  
-Founder of CleenHearts  
-Dedicated to social upliftment and sustainable community development.
+We aim to foster hope, improve lives, and build a better tomorrow.
 
 ---
 
-## 📞 Contact Information
+## 🌟 Our Key Initiatives
 
-- 📧 Email: [needhelp@company.com](mailto:needhelp@company.com)  
-- 📍 Address: 85 Ketch Harbour Road, Bensalem, PA 19020  
-- 📞 Phone: +91 2659 302 003  
+- **#MedicalEmergencyCases**  
+  Providing urgent financial and logistical assistance for critical medical treatments.
+
+- **#GraceFoodBank**  
+  Ensuring food security by distributing nutritious meals to individuals and families in need.
+
+- **#MissionSmile Program**  
+  Bringing joy to children and marginalized communities through education, care, and engagement.
+
+- **+ Many More Ongoing Projects**  
+  Focused on healthcare, nutrition, education, and holistic community support.
 
 ---
 
-## 🌐 Follow Us
+## 🤝 Join Us
 
-- [Facebook](#)
-- [Twitter](#)
-- [LinkedIn](#)
-- [YouTube](#)
+Together, we can make a difference.
+
+Whether you choose to:
+- Volunteer your time and skills,
+- Make a donation,
+- Spread awareness on social media, or
+- Collaborate with us on new initiatives,
+
+**Your support matters.**
 
 ---
 
-## 🚀 Getting Started
+## 📫 Contact & Connect
 
-To run this website locally:
+- **Website:** [www.rhlf.org](http://www.rhlf.org/)
+- **Phone:** +91 9607753148
+- **Location:** Bhiwandi, Maharashtra
+- **LinkedIn:** [Search Real Happiness Of Life Foundation](https://www.linkedin.com/)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cleenhearts-website.git
-   cd cleenhearts-website
+---
+
+> _"The best way to find yourself is to lose yourself in the service of others." – Mahatma Gandhi_
+
+---
+
+### 💻 Repository Purpose
+
+This repository is maintained to:
+- Share updates and documentation about RHLF programs
+- Host open data, media, or tech tools developed by the organization
+- Invite collaboration on tech-for-good projects and community outreach
+
+Feel free to fork, contribute, or reach out if you’re interested in helping us grow our impact through technology and innovation.
+
+---
+
+**#NGO #SocialImpact #RealHappinessOfLife #MedicalEmergencyCases #GraceFoodBank #MissionSmile**
